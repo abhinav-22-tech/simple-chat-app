@@ -70,9 +70,9 @@
       <input id="input" autocomplete="off" />
       <button>Send</button>
     </form>
-    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://shielded-refuge-60578.herokuapp.com/socket.io/socket.io.js"></script>
     <script>
-      let socket = io("https://shielded-refuge-60578.herokuapp.com/");
+      let socket = io();
 
       let form = document.getElementById("form");
       let input = document.getElementById("input");
