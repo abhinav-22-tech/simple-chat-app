@@ -1,3 +1,3 @@
 # Live Demo
 
-https://simple-chat-apps.herokuapp.com/
+https://abhinav-22-tech.github.io/simple-chat-app/?
